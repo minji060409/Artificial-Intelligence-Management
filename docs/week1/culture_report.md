@@ -1,9 +1,5 @@
 # [Team 2] Week 1 · 문화권 조사 보고서
 
-> **인공지능과 경영 · 11주차 협동학습**
-> Global AI Ethics Simulator — Week 1 산출물 템플릿
-> © 2026 강송희 교수 · CC BY-NC 4.0
-
 ---
 
 ## 1. 팀 · 배정 문화권
