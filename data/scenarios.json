@@ -1,0 +1,51 @@
+{
+  "culture": "KOREA",
+  "team": "T3",
+  "weights": {
+    "emotion":  0.2,
+    "social":   0.2,
+    "moral":    0.2,
+    "identity": 0.4
+  },
+  "scenarios": [
+    {
+      "sid": "S1_subway",
+      "title": "지하철 스크린도어 정지 딜레마",
+      "setup": "5명이 스크린도어와 열차 사이에 갇혔고, 긴급 정지 스위치를 누르면 통제실 관리자의 자녀 1명이 다칠 수 있다.",
+      "options": {
+        "A": "긴급 정지 (개입) — 관리자 자녀 부상 위험",
+        "B": "규정 준수 (방관) — 승객 5명 사망 위험"
+      },
+      "rewards": {
+        "A": {"emotion":  0.8, "social": -0.6, "moral": -0.5, "identity":  0.3},
+        "B": {"emotion": -0.4, "social":  0.7, "moral":  0.6, "identity":  0.5}
+      }
+    },
+    {
+      "sid": "S2_noise",
+      "title": "아파트 층간소음 중재 딜레마",
+      "setup": "야간에 위층 아이가 우는 소리가 지속되어 아래층 노인의 건강이 악화된다. 관리사무소는 강경 조치를 고민 중이다.",
+      "options": {
+        "A": "위층에 강제 이주 권고 (개인 vs 공동체)",
+        "B": "방음 공사 지원 (공동체 유지 · 비용 발생)"
+      },
+      "rewards": {
+        "A": {"emotion": -0.6, "social": -0.4, "moral":  0.3, "identity":  0.6},
+        "B": {"emotion":  0.5, "social":  0.7, "moral":  0.5, "identity": -0.2}
+      }
+    },
+    {
+      "sid": "S3_nokids",
+      "title": "노키즈존 도입 딜레마",
+      "setup": "카페 사장은 조용한 분위기를 원하는 다수 손님을 위해 노키즈존 도입을 검토 중이다. 지역 육아 커뮤니티는 반발한다.",
+      "options": {
+        "A": "노키즈존 도입 (개인 사업권 강화)",
+        "B": "가족 친화 존 운영 (사회적 포용)"
+      },
+      "rewards": {
+        "A": {"emotion": -0.5, "social": -0.7, "moral": -0.4, "identity":  0.8},
+        "B": {"emotion":  0.6, "social":  0.8, "moral":  0.5, "identity": -0.3}
+      }
+    }
+  ]
+}
