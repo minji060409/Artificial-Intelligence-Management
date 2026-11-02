@@ -6,7 +6,7 @@
 ![Python](https://img.shields.io/badge/python-3.11-blue)
 ![Streamlit](https://img.shields.io/badge/streamlit-1.32+-red)
 ![License](https://img.shields.io/badge/license-CC%20BY--NC%204.0-green)
-![CI](https://github.com/<org>/<repo>/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/minji060409/Artificial-Intelligence-Management/actions/workflows/ci.yml/badge.svg)
 
 ---
 
