@@ -14,16 +14,16 @@
 
 | 항목 | 내용 |
 |---|---|
-| 팀명 | 2팀 |
+| 팀명 | T2 |
 | 배정 문화권 | LATIN_AM |
 | Streamlit Cloud URL | https://<your-app>.streamlit.app |
 | 시연 영상 | (선택) YouTube 링크 |
 
 ## 👥 팀원
 
-| 이름 | 학번 | 전공 | 역할 | Email |
+| 이름 | 학번 | 전공 | 역할 | GitHub ID |
 |---|---|---|---|---|
-| 강민지 | 2025240001 | 인공지능학과 | 기획 | 2025240001@tukorea.ac.kr |
+| 강민지 | 2025240001 | 인공지능학과 | 기획 | minji060409@gmail.com |
 | 김윤서 | 2025xxxxxx | 경영학부 데이터사이언스경영학과 | 발표 | 2782jacob@gmail.com |
 | 안예은 | 2025xxxxxx | 경영학부 데이터사이언스경영학과 | 시뮬레이션 | computer5904@naver.com |
 | 이채원 | 2025xxxxxx | 경영학부 데이터사이언스경영학과 | 검증 | si2438431@gmail.com |
