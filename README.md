@@ -6,7 +6,7 @@
 ![Python](https://img.shields.io/badge/python-3.11-blue)
 ![Streamlit](https://img.shields.io/badge/streamlit-1.32+-red)
 ![License](https://img.shields.io/badge/license-CC%20BY--NC%204.0-green)
-![CI](https://github.com/<org>/<repo>/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/minji060409/Artificial-Intelligence-Management/actions/workflows/ci.yml/badge.svg)
 
 ---
 
@@ -16,7 +16,7 @@
 |---|---|
 | 팀명 | T2 |
 | 배정 문화권 | LATIN_AM |
-| Streamlit Cloud URL | https://<your-app>.streamlit.app |
+| Streamlit Cloud URL | https://artificial-intelligence-management-6mmyinuduky7seehztkarn.streamlit.app/ |
 | 시연 영상 | (선택) YouTube 링크 |
 
 ## 👥 팀원
