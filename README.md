@@ -16,7 +16,7 @@
 |---|---|
 | 팀명 | 2팀 |
 | 배정 문화권 | LATIN_AM |
-| Streamlit Cloud URL | https://<your-app>.streamlit.app |
+| Streamlit Cloud URL | https://artificial-intelligence-management-6mmyinuduky7seehztkarn.streamlit.app/ |
 | 시연 영상 | (선택) YouTube 링크 |
 
 ## 👥 팀원
