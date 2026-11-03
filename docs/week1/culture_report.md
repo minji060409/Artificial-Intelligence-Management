@@ -28,7 +28,7 @@
 
 > ⚠️ 합계는 반드시 1.00 이어야 합니다. `python scripts/validate_scenarios.py` 로 자동 검증됩니다.
 
-## 4. 가설 (Value-Check 대상)
+## 4. 검증 가능한 가설 (Value-Check 대상)
 
 > **H1.** 우리 문화권(KOREA) 에이전트는 S1(Trolley) 시나리오에서 옵션 **B(방관)** 를 200 에피소드 부근에서 수렴 선택할 것이다.
 >
