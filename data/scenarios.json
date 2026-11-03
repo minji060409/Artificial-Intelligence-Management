@@ -1,11 +1,11 @@
 {
-  "culture": "KOREA",
-  "team": "T3",
+  "culture": "LATIN_AM",
+  "team": "T2",
   "weights": {
-    "emotion":  0.2,
-    "social":   0.2,
+    "emotion":  0.3,
+    "social":   0.3,
     "moral":    0.2,
-    "identity": 0.4
+    "identity": 0.2
   },
   "scenarios": [
     {
