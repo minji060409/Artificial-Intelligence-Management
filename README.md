@@ -17,7 +17,7 @@
 | 팀명 | T2 |
 | 배정 문화권 | LATIN_AM |
 | Streamlit Cloud URL | https://artificial-intelligence-management-6mmyinuduky7seehztkarn.streamlit.app/ |
-| 시연 영상 | (선택) YouTube 링크 |
+| 시연 영상 | (선택) |
 
 ## 👥 팀원
 
